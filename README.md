@@ -1,2 +1,2 @@
-# Programaci-nII_Trabajos
+# ProgramacionII_Trabajos
 Projects developed in JAVA using NetBeans.
